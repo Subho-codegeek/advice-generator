@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/advice-generator/static/css/main.9d706a4a.chunk.css",
+    "main.js": "/advice-generator/static/js/main.8f7b23bf.chunk.js",
+    "main.js.map": "/advice-generator/static/js/main.8f7b23bf.chunk.js.map",
+    "runtime-main.js": "/advice-generator/static/js/runtime-main.90204019.js",
+    "runtime-main.js.map": "/advice-generator/static/js/runtime-main.90204019.js.map",
+    "static/js/2.16c368ca.chunk.js": "/advice-generator/static/js/2.16c368ca.chunk.js",
+    "static/js/2.16c368ca.chunk.js.map": "/advice-generator/static/js/2.16c368ca.chunk.js.map",
+    "index.html": "/advice-generator/index.html",
+    "static/css/main.9d706a4a.chunk.css.map": "/advice-generator/static/css/main.9d706a4a.chunk.css.map",
+    "static/js/2.16c368ca.chunk.js.LICENSE.txt": "/advice-generator/static/js/2.16c368ca.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advice-generator/static/media/city.66512aa4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90204019.js",
+    "static/js/2.16c368ca.chunk.js",
+    "static/css/main.9d706a4a.chunk.css",
+    "static/js/main.8f7b23bf.chunk.js"
+  ]
+}
